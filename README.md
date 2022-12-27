@@ -1,34 +1,30 @@
-# flutter_maps_polyline
+# How to add/draw polylines in Flutter Maps?
 
-This project holds the samples of how to add or draw a polyline using Syncfusion Flutter Maps widget.
+This repository contains a sample to add/draw polylines in [Syncfusion Flutter Maps](https://help.syncfusion.com/flutter/maps/getting-started) widget.
 
-# Steps to run:
+Please refer the KB through this [link](https://www.syncfusion.com/kb/12777/how-to-add-draw-polylines-in-flutter-maps).
 
-1. Checkout and open the project in your favorite editor.
+## Syncfusion controls:
 
-2. Run the below command to get the required package.
+This project used the following Syncfusion widget(s):
+* [SfMaps](https://www.syncfusion.com/flutter-widgets/flutter-maps)
 
-   $ flutter pub get
+## Supported platforms
 
-3. Run the below command to run the project.
+Refer to the following link to know about the supported platform - [Platforms](https://help.syncfusion.com/flutter/system-requirements#supported-platforms)
 
-   $ flutter run
+## Requirements to run the sample
 
-# Get the demo application
+Refer to the following link to know about system requirements - [System Requirements](https://help.syncfusion.com/flutter/system-requirements)
 
-Explore the full capabilities of our Flutter widgets on your device by installing our sample browser applications from the below app stores, and view samples code in GitHub.
+## How to run the sample
 
-* [Android](https://play.google.com/store/apps/details?id=com.syncfusion.flutter.examples)
-* [iOS](https://apps.apple.com/us/app/syncfusion-flutter-ui-widgets/id1475231341)
-* [Web](https://flutter.syncfusion.com/#/)
-* [Windows](https://www.microsoft.com/en-us/p/syncfusion-flutter-gallery/9nhnbwcsf85d?activetab=pivot:overviewtab)
-* [Linux](https://snapcraft.io/syncfusion-flutter-gallery)
+1. Clone the sample and open it in preferred IDE.
 
-# Useful links
+   *Note: If you download the sample using the "Download ZIP" option, right-click it, select Properties, and then select Unblock.*
 
-Take a look at the following to learn more about Syncfusion Flutter Maps:
+2. Run the application.
 
-* [Syncfusion Flutter Maps product page](https://www.syncfusion.com/flutter-widgets/flutter-maps)
-* [User guide documentation for Maps](https://help.syncfusion.com/flutter/maps/overview)
-* [Knowledge base](https://www.syncfusion.com/kb/flutter/sfmaps)
-* [pub.dev](https://pub.dev/packages/syncfusion_flutter_maps)
+## License
+
+Syncfusion has no liability for any damage or consequence that may arise by using or viewing the samples. The samples are for demonstrative purposes, and if you choose to use or access the samples, you agree to not hold Syncfusion liable, in any form, for any damage that is related to use, for accessing, or viewing the samples. By accessing, viewing, or seeing the samples, you acknowledge and agree Syncfusion’s samples will not allow you seek injunctive relief in any form for any claim related to the sample. If you do not agree to this, do not view, access, utilize, or otherwise do anything with Syncfusion’s samples.
