@@ -31,7 +31,7 @@ class _MapsPageState extends State<MapsPage>
     with SingleTickerProviderStateMixin {
   late List<MapLatLng> _polylinePoints;
   late AnimationController _animationController;
-  late Animation _animation;
+  late Animation<double> _animation;
 
   @override
   void initState() {
@@ -77,8 +77,7 @@ class _MapsPageState extends State<MapsPage>
                 longitude: _polylinePoints[index].longitude,
                 child: Transform.translate(
                   offset: Offset(0.0, -8.0),
-                  child:
-                      Icon(Icons.location_on, color: Colors.red, size: 30),
+                  child: Icon(Icons.location_on, color: Colors.red, size: 30),
                 ),
               );
             } else {
